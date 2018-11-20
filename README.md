@@ -1,1 +1,1 @@
-Hello, welcome to my webiste.
+Hello, welcome to my website.
